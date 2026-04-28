@@ -13,3 +13,9 @@ Estrutura leve e fácil de entender
 ## 🛠️ Tecnologias utilizadas
 Python
 ---
+
+## 💡 Objetivo
+
+Este projeto foi desenvolvido com fins de aprendizado, explorando conceitos básicos de programação em Python e manipulação de textos.
+---
+---
