@@ -1,5 +1,15 @@
-# Biblioteca de Músicas
-### Inspirada no programdor "CaioNaLarica"
+# 🎵 Biblioteca de Músicas
+### Inspirada no programador CaioNaLarica
 
-A proposta é executar letras de música por meio do PYTHON
+Este projeto tem como objetivo executar e exibir letras de músicas utilizando Python, proporcionando uma forma simples e interativa de acessar conteúdos musicais diretamente pelo terminal.
+---
+
+## 🚀 Funcionalidades
+Exibição de letras de músicas
+Execução simples via terminal
+Estrutura leve e fácil de entender
+---
+
+## 🛠️ Tecnologias utilizadas
+Python
 ---
