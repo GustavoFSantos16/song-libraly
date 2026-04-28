@@ -11,7 +11,9 @@ Estrutura leve e fácil de entender
 ---
 
 ## 🛠️ Tecnologias utilizadas
-Python
+
+Python 
+
 ---
 
 ## 💡 Objetivo
