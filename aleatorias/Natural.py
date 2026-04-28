@@ -22,17 +22,30 @@ def write(text, speed=0.082, cor="white"):
 def sing():
     clear()
 
-    # 🔥 Refrão (batida forte e marcada)
-    write("'Cause you're a natural", 0.082, "yellow")
-    write("A beating heart of stone", 0.082, "white")
-    write("You gotta be so cold", 0.082, "white")
-    write("To make it in this world", 0.082, "white")
+    # 🔥 PRIMEIRA ENTRADA (batida forte)
+    write("'Cause you're a natural", 0.078, "yellow")
+    time.sleep(0.35)
 
-    # 💥 Repetição com mais impacto
-    write("Yeah, you're a natural", 0.08, "yellow")
-    write("Living your life cutthroat", 0.082, "white")
+    write("A beating heart of stone", 0.082, "white")
+    time.sleep(0.3)
+
     write("You gotta be so cold", 0.082, "white")
-    write("Yeah, you're a natural", 0.08, "yellow")
+    time.sleep(0.3)
+
+    write("To make it in this world", 0.082, "white")
+    time.sleep(0.45)
+
+    # 💥 SEGUNDA PARTE (mais encaixada ainda)
+    write("Yeah, you're a natural", 0.078, "yellow")
+    time.sleep(0.3)
+
+    write("Living your life cutthroat", 0.082, "white")
+    time.sleep(0.3)
+
+    write("You gotta be so cold", 0.082, "white")
+    time.sleep(0.3)
+
+    write("Yeah, you're a natural", 0.078, "yellow")
 
     time.sleep(1.5)
     clear()
