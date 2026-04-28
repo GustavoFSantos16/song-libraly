@@ -12,7 +12,7 @@ Estrutura leve e fácil de entender
 
 ## 🛠️ Tecnologias utilizadas
 
-Python 
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ---
 
